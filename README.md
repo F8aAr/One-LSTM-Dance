@@ -11,6 +11,8 @@ You can choose the number of bars you want to generate changing variable num_bar
 Go to generate_DrumLoop function and load the weights...  model.load_weights("weights_test.hdf5")
 * make sure weights_test.hdf5 file is in the project directory
 
+Run generation(LSTMmodel.py)
+
 Once you have generated a pattern from a random seed, you can fix the seed (if you like it). The index of the seed will be printed in console. So you will just have to assign that index to the variable seed_idx. Now you can test different temperatures for that same seed.
 
 If you want to keep generating samples from random seeds, keep seed_idx = None
