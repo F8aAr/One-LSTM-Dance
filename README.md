@@ -1,6 +1,6 @@
 # One-LSTM-Dance
 
-# Generate a Drum pattern
+## Generate a Drum pattern
 
 Comment the training and uncomment the generation section in LSTMmodel.py
 
