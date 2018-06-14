@@ -25,4 +25,4 @@ Go to build_model function and adjust your desire architecture.
 
 Run training(LSTMmodel.py)
 
-*We have uploaded the Text_corpus, make sure it is in the project directory and assign it to the variable path in prepare data section....  path = 'GS_QUAD_MDF_sel.txt' 
+* We have uploaded the Text_corpus, make sure it is in the project directory and assign it to the variable path in prepare data section....  path = 'GS_QUAD_MDF_sel.txt' 
