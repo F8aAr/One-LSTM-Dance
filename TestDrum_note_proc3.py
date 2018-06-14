@@ -6,7 +6,6 @@ import os
 import tensorflow as tf
 import pymidifile
 import mido
-import midi
 import note_proc as dnp
 from midi_drums_utils import conv_text_to_midi, text_to_notes
 
