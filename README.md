@@ -17,6 +17,7 @@ Once you have generated a pattern from a random seed, you can fix the seed (if y
 
 If you want to keep generating samples from random seeds, keep seed_idx = None
 
+* You can find the trained model here: https://drive.google.com/drive/folders/1q51e3NKMcympHnbnTPdQ0os5mXObsYZA?usp=sharing 
 ## Train a new model
 
 For training a new model comment the Generation section and uncomment the training. 
